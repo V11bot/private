@@ -155,7 +155,7 @@ if (anu.action == 'add') {
 var buffer = await getBuffer(ppuser)
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6285714170944@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
 he = `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-let link = `https://youtube.com/c/TheZyrenn'`
+let link = `https://chat.whatsapp.com/GXd1RDIS6KDCHQje31rFtK'`
 let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'WELCOME'}, type: 1}
 ]
@@ -167,12 +167,12 @@ mentions: [num],
 fileName: `HELLO 👋 SELAMAT DATANG DI GROUP ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+footer: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+body: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -182,7 +182,7 @@ zyren.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
 } else if (anu.action == 'remove') {
 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6285714170944@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
 he = `SELAMAT TINGGAL KAWAN 👋 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-let link = `https://youtube.com/c/TheZyrenn'`
+let link = `https://chat.whatsapp.com/GXd1RDIS6KDCHQje31rFtK'`
 let buttons = [
 {buttonId: `halo`, buttonText: {displayText: 'BYE'}, type: 1}
 ]
@@ -194,12 +194,12 @@ mentions: [num],
 fileName: `SELAMAT TINGGAL 👋 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+footer: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
+body: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -242,12 +242,12 @@ mentions: [num],
 fileName: `KASIAN SIH DI DEMOTE 😂 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© HW MODS WA`,
+footer: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `YANG SABAR YAH MAKANYA JADI ADMIN YANG BETUL 😡️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -268,12 +268,12 @@ mentions: [num],
 fileName: `SELAMAT TELAH JADI ADMIN 🤗 ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `© HW MODS WA`,
+footer: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `JADI LAH ADMIN YANG BIJAK KAWAN 🌷️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
