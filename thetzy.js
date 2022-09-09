@@ -20,11 +20,11 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCBFn94A-mA7RrtZc1Njwz4Q'
-global.ig = 'https://www.instagram.com/reel/Cc915M2JRzd/?igshid=YmMyMTA2M2Y='
-global.mygc = 'https://chat.whatsapp.com/FifXxdjPSDp9kmiU4P91qb'
-global.myweb = 'http://s.id/AiiBotz'
-global.linkgrupss = "https://chat.whatsapp.com/IluWxXrhcFZI1s6H4SIqZFK"
+global.youtube = '-'
+global.ig = '-'
+global.mygc = 'minta ke owner wa.me/6285763376203'
+global.myweb = 'http://wa.me/6285763376203'
+global.linkgrupss = "https://chat.whatsapp.com/GXd1RDIS6KDCHQje31rFtK"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
 global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
 global.email = 'destivip@gmail.com'
@@ -40,16 +40,16 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '༺~ •乂• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Ｉｎｆｉｎｉｔｙ - Ｃｒａｓｈ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.ownername = '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = '༺~ •乂• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281649357107']
-global.premium = ['6281649357107']
-global.packname = '༺~ •乂• ~༻'
-global.ownerr = ['༺~ •乂• ~༻']
-global.author = '༺~ •乂• ~༻'
+global.owner = ['6285763376203']
+global.premium = ['6285763376203']
+global.packname = '༺~ 𝑪𝒙𝒙𝒛𝒚 ~༻'
+global.ownerr = ['༺~ 𝑪𝒙𝒙𝒛𝒚 ~༻']
+global.author = '༺~ 𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️ ~༻'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
