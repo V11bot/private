@@ -251,7 +251,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "surface": "CATALOG",
 "message": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️",
 "orderTitle": "𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️  ",
-"sellerJid": "6285763376203,
+"sellerJid": "6285763376203",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
